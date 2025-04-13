@@ -50,7 +50,7 @@ class Program
         writer.WriteLine($"{nome}, {telefone}, {email}");
         writer.Close();
         
-        Console.WriteLine("Contato cadastrado com sucesso!");
+        Console.WriteLine("Contato cadastrado com sucesso!!");
     }
 
     static void ListaContato()
